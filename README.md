@@ -1,3 +1,14 @@
-Hello you've found the website for dm-me-your-data-visuals! :joy: A Data Engineer. 
+Hello you've found the website for dm-me-your-data-visuals! :) 
 
-This is a portfolio for educational resources, POC, and demo pieces.
+A Data Engineer that enjoys novel data visualization tools and all things explainable ML. 
+
+# [Linkedin](https://www.linkedin.com/in/jules-s-553a77109/)
+
+## Current Reading
+- Bayesian statistics the fun way
+- Clean Code
+- Transformers for NLP
+- C# & .NET 6
+
+## Portfolio items
+404
